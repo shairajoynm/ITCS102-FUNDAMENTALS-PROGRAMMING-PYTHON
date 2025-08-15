@@ -1,10 +1,10 @@
 name = input("Name : ")
-address = input("Address : ")
+
 
 
 print("\tHello! Good Day Mr./Ms./Mrs.", name)
-print("You lived in", address, "right? \n\tNice place :)")
-x = eval(input("Enter the amount of deposit: "))
+
+x = eval(input("\nEnter the amount of deposit: "))
 
 
 onek = x // 1000
