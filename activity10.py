@@ -1,3 +1,6 @@
+#10% discount if minor
+#proceed if legal age
+
 name = input("Enter your name : ")
 age = int(input("Age : "))
 total_bill = 0
@@ -11,5 +14,6 @@ else:
 	x = total_bill * .1
 	y = total_bill - x
 	print("Your total bill now is", y)
+
 
 
