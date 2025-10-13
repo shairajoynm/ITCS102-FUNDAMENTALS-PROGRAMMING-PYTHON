@@ -1,7 +1,7 @@
 # ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON
 Repository of Computer Program developed in Python for our Subject ITCS102 - First Year First Semester
 
-Hiiiii welcome to my Github repo hihi 
+Hiiiii! 👋 Welcome to my GitHub repository!
 
 Here's the compilation of my activities and codechallenges
 
