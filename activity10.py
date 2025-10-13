@@ -1,19 +1,14 @@
-#10% discount if minor
-#proceed if legal age
+#discount 10% if minor
 
-name = input("Enter your name : ")
-age = int(input("Age : "))
-total_bill = 0
+name = input("Name: ")
+age = input("Are you a minor? (Yes/No) ")
+fare = float(input("Bayad --> "))
 
-if age >= 18:
-	print(f"\n\tGood day, {name}, you can now proceed to the next page.")
+if age.lower() == "yes":
+    discount = fare * 0.10
+    new_fare = fare - discount
+    print("Hi", name, ",your discounted fare is", new_fare)
+
 else:
-	print(f"\n\tHi {name}, we're sorry, but minors cannot proceed to the next part.")
-	print("\tIn exchange for not proceeding, you have a 10% discount on your bill.")
-	total_bill = int(input("\nHow much is your total bill?   "))
-	x = total_bill * .1
-	y = total_bill - x
-	print("Your total bill now is", y)
-
-
+    print("Sorry", name, ", you are not eligible for a discount. You may now proceed in paying the alloted fare for you")
 
