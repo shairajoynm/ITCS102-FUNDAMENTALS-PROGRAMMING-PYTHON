@@ -42,7 +42,9 @@ activity 17 - https://github.com/shairajoynm/ITCS102-FUNDAMENTALS-PROGRAMMING-PY
 activity 18 - https://github.com/shairajoynm/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/12c30770c10d21e82bb97bf4fed9b0d6e44a8787/activity18.py
 
 activity 19 - 
+
 activity 20 - 
+
 activity 21 - 
 
 codechallenge 1 - https://github.com/shairajoynm/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/12c30770c10d21e82bb97bf4fed9b0d6e44a8787/codechallenge1.py
@@ -68,5 +70,6 @@ codechallenge 10 - https://github.com/shairajoynm/ITCS102-FUNDAMENTALS-PROGRAMMI
 codechallenge 11 - https://github.com/shairajoynm/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/12c30770c10d21e82bb97bf4fed9b0d6e44a8787/codechallenge11.py
 
 codechallenge 12 - https://github.com/shairajoynm/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/12c30770c10d21e82bb97bf4fed9b0d6e44a8787/codechallenge12.py
+
 codechallenge 13 - https://github.com/shairajoynm/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/12c30770c10d21e82bb97bf4fed9b0d6e44a8787/codechallenge13.py
 	
