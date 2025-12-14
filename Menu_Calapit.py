@@ -759,7 +759,7 @@ while True:
             subtottt = True
             while subtottt == True:  #subtopics loop
 
-                ask_printtt = input("Choose one subtopic (a/b/c/d) or Type 'main' for main menu --> ").lower()
+                ask_printtt = input("Choose one subtopic (a/b) or Type 'main' for main menu --> ").lower()
                 if ask_printtt == "main":
                     subtottt = False   #exit subtopics loop and return to main menu
                     break
@@ -813,4 +813,5 @@ while True:
         exit()
 
                 
+
 
